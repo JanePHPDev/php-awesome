@@ -51,6 +51,9 @@
 - [RageFrame2](https://github.com/jianyan74/rageframe2) - 基于Yii2快速业务开发框架
 - [yaldash](https://github.com/getspooky/yaldash) - Laravel 后台管理
 - [Backpack](https://github.com/Laravel-Backpack/CRUD) - 基于 `Laravel` 快速构建管理后台
+- [ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) - ZuzShortURL 下一代短链接SaaS解决方案
+
+
 
 
 ## 成品软件
